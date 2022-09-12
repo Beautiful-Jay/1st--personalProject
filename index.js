@@ -11,6 +11,4 @@ document.getElementById('flex-box-result').appendChild(h1);
 }
 
 function reset() {
-document.getElementById("ageInDays").remove();
-//ageInDays.addEventListener("click", reset);
-}
+document.getElementById("ageInDays").remove();}
